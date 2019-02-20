@@ -9,10 +9,10 @@ void main()
     scanf("%d",&b);
     scanf("%d",&c);
    if((a>b)&&(a>c))
-      printf("A is greater");
+      printf(a);
    elseif(b>c)
-      printf("B is greater");
+      printf(b);
    else
-      printf("C is greater");
+      printf(c);
    getch();
  }  
