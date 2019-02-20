@@ -3,6 +3,7 @@
 void main()
 {
    int a,b,c;
+   clrscr();
    printf("Enter the value of a,b,c");
    scanf("%d",&a);
     scanf("%d",&b);
