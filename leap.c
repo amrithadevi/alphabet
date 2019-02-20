@@ -3,6 +3,7 @@
 void main()
 {
    int year;
+   clrscr();
    scanf("%d",&year);
    if(year%4==0)
     printf("yes");
